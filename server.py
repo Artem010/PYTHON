@@ -1,6 +1,6 @@
 import socket, time
 
-ip = 'localhost';
+ip = '';
 port = 9390
 cl=[]
 users =[]
